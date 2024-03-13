@@ -1,7 +1,6 @@
 package org.example.spring_3_2_3.rest.role.service.impl;
 
 import jakarta.annotation.PostConstruct;
-import lombok.RequiredArgsConstructor;
 import org.example.spring_3_2_3.domain.user.Role;
 import org.example.spring_3_2_3.models.enums.RoleEnums;
 import org.example.spring_3_2_3.repositories.IRoleRepository;

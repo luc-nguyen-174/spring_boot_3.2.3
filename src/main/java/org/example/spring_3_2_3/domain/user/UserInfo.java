@@ -2,11 +2,8 @@ package org.example.spring_3_2_3.domain.user;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.annotations.Fetch;
-import org.hibernate.annotations.FetchMode;
 
 import java.io.Serializable;
-import java.util.List;
 import java.util.Set;
 
 @Setter
